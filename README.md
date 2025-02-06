@@ -17,15 +17,15 @@ Then you need to fund an account with atleast 0.004 SOL that is generated when r
 To launch your token on Pumpfun site, edit the metadata as desired.
 ```typescript
     const metadata = {
-      "name": "B@mbi",
-      "symbol": "Bam",
-      "description": "Bambi's token",
+      "name": "Soladity",
+      "symbol": "Soladity",
+      "description": "Soladity's token",
       "image": "./upload/img.jpg",
       "showName": true,
       "createdOn": "https://pump.fun",
-      "twitter": "https://x.com/bambi",
-      "telegram": "https://t.me/bambi",
-      "website": "https://bambi"
+      "twitter": "https://x.com/soladity1",
+      "telegram": "https://t.me/soladity",
+      "website": "https://Soladity"
 }
 ```
 `
@@ -97,8 +97,8 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 # 👤 Author
 
-### Telegram: [Vladmeer](https://t.me/vladmeer67)   
-https://t.me/vladmeer67
+### Telegram: [Soladity](https://t.me/soladity)   
+https://t.me/soladity
 
-### Twitter: [Vladmeer](https://x.com/vladmeer67)   
-https://x.com/vladmeer67
+### Twitter: [Soladity](https://x.com/soladity1)   
+https://x.com/soladity1

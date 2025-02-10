@@ -97,8 +97,5 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 # 👤 Author
 
-### Telegram: [Soladity](https://t.me/soladity)   
-https://t.me/soladity
-
-### Twitter: [Soladity](https://x.com/soladity1)   
-https://x.com/soladity1
+### Telegram: [Alberto](https://t.me/albertomira0510)   
+https://t.me/albertomira0510

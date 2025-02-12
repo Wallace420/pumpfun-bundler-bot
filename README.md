@@ -97,5 +97,5 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 # 👤 Author
 
-### Telegram: [Alberto](https://t.me/albertomira0510)   
-https://t.me/albertomira0510
+### Telegram: [CryptoCooker](https://t.me/cryptocooker0510)   
+https://t.me/cryptocooker0510

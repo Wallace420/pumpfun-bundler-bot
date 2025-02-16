@@ -97,5 +97,5 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 # 👤 Author
 
-### Telegram: [CryptoCooker](https://t.me/cryptocooker0510)   
-https://t.me/cryptocooker0510
+### Telegram: [DirtySanch3z](https://t.me/DirtySanch3z)
+
